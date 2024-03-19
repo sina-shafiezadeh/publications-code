@@ -1,14 +1,1 @@
-test
-dirname = "D:\\SeizurePrediction_reduced" #where is patients folder
-dataset_address = "D:\\Sina\\raw signals models"
 
-new_freq = 256 #for downsampling
-
-common_channels=['C3','C4','Cz','F3','F4','F7','F8','Fp1','Fp2','Fz','O1','O2','Oz','P3','P4','P7','P8','Pz','T7','T8'] #20 channels
-    
-preictal_duration = 1800 #30 minutes
-
-window_size = new_freq * 5 #5 seconds window
-window_step = int(new_freq * 5) #0 seconds of overlap
-
-time_sections = ["0-30","30-60","60-90","90-120"]
