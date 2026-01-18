@@ -4,7 +4,7 @@ This repository hosts the technical details of my first author publications. The
 
 - A Comparison of Recurrent and Convolutional Deep Learning Architectures for EEG Seizure Forecasting ([link](https://www.scitepress.org/PublicationsDetail.aspx?ID=RxgTgRng4GI=&t=1)).
 
-@article{shafiezadeh2024comparison,
+- @article{shafiezadeh2024comparison,
   title={A comparison of recurrent and convolutional deep learning architectures for EEG seizure forecasting},
   author={Shafiezadeh, Sina and Pozza, Marco and Testolin, Alberto and others},
   journal={BIOSTEC},
