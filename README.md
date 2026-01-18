@@ -4,18 +4,27 @@ This repository hosts the technical details of my first author publications. The
 
 - A Comparison of Recurrent and Convolutional Deep Learning Architectures for EEG Seizure Forecasting ([link](https://www.scitepress.org/PublicationsDetail.aspx?ID=RxgTgRng4GI=&t=1)).
 
-```bibtex
-@article{YourKey2024,
-  title   = {Title of Your Paper},
-  author  = {LastName, FirstName and Coauthor, Second},
-  journal = {Journal Name},
-  year    = {2024},
-  volume  = {XX},
-  pages   = {XX--XX},
-  doi     = {10.XXXX/XXXXXX}
+- ```bibtex
+@article{shafiezadeh2024comparison,
+  title={A comparison of recurrent and convolutional deep learning architectures for EEG seizure forecasting},
+  author={Shafiezadeh, Sina and Pozza, Marco and Testolin, Alberto and others},
+  journal={BIOSTEC},
+  pages={583--590},
+  year={2024}
 }
 
 - Calibrating Deep Learning Classifiers for Patient-Independent Electroencephalogram Seizure Forecasting ([link](https://www.mdpi.com/1424-8220/24/9/2863)).
+
+- @article{shafiezadeh2024calibrating,
+  title={Calibrating deep learning classifiers for patient-independent electroencephalogram seizure forecasting},
+  author={Shafiezadeh, Sina and Duma, Gian Marco and Mento, Giovanni and Danieli, Alberto and Antoniazzi, Lisa and Del Popolo Cristaldi, Fiorella and Bonanni, Paolo and Testolin, Alberto},
+  journal={Sensors},
+  volume={24},
+  number={9},
+  pages={2863},
+  year={2024},
+  publisher={MDPI}
+}
 
 - Methodological Issues in Evaluating Machine Learning Models for EEG Seizure Prediction: Good Cross-Validation Accuracy Does Not Guarantee Generalization to New Patients ([link](https://www.mdpi.com/2076-3417/13/7/4262)).
 
