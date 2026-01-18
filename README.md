@@ -4,7 +4,7 @@ This repository hosts the technical details of my first author publications. The
 
 - A Comparison of Recurrent and Convolutional Deep Learning Architectures for EEG Seizure Forecasting ([link](https://www.scitepress.org/PublicationsDetail.aspx?ID=RxgTgRng4GI=&t=1)).
 
-- ```bibtex
+```bibtex
 @article{YourKey2024,
   title   = {Title of Your Paper},
   author  = {LastName, FirstName and Coauthor, Second},
