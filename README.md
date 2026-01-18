@@ -12,10 +12,12 @@ This repository hosts the technical details of my first author publications. The
   pages={583--590},
   year={2024}
 }
+```
 
 - Calibrating Deep Learning Classifiers for Patient-Independent Electroencephalogram Seizure Forecasting ([link](https://www.mdpi.com/1424-8220/24/9/2863)).
 
-- @article{shafiezadeh2024calibrating,
+```bibtex
+@article{shafiezadeh2024calibrating,
   title={Calibrating deep learning classifiers for patient-independent electroencephalogram seizure forecasting},
   author={Shafiezadeh, Sina and Duma, Gian Marco and Mento, Giovanni and Danieli, Alberto and Antoniazzi, Lisa and Del Popolo Cristaldi, Fiorella and Bonanni, Paolo and Testolin, Alberto},
   journal={Sensors},
@@ -25,7 +27,21 @@ This repository hosts the technical details of my first author publications. The
   year={2024},
   publisher={MDPI}
 }
+```
 
-- Methodological Issues in Evaluating Machine Learning Models for EEG Seizure Prediction: Good Cross-Validation Accuracy Does Not Guarantee Generalization to New Patients ([link](https://www.mdpi.com/2076-3417/13/7/4262)).
+- Methodological Issues in Evaluating Machine Learning Models for EEG Seizure Prediction: Good Cross-Validation Accuracy Does Not Guarantee Generalisation to New Patients ([link](https://www.mdpi.com/2076-3417/13/7/4262)).
+
+```bibtex
+@article{shafiezadeh2023methodological,
+  title={Methodological issues in evaluating machine learning models for EEG seizure prediction: Good cross-validation accuracy does not guarantee generalisation to new patients},
+  author={Shafiezadeh, Sina and Duma, Gian Marco and Mento, Giovanni and Danieli, Alberto and Antoniazzi, Lisa and Del Popolo Cristaldi, Fiorella and Bonanni, Paolo and Testolin, Alberto},
+  journal={Applied Sciences},
+  volume={13},
+  number={7},
+  pages={4262},
+  year={2023},
+  publisher={MDPI}
+}
+```
 
 
